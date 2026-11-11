@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<ruleset name="BankAccountStandard">
+    <description>PSR-12 coding standard</description>
+    <file>src</file>
+    <file>index.php</file>
+    <rule ref="PSR12"/>
+</ruleset>
